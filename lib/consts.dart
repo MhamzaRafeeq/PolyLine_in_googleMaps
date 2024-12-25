@@ -1,0 +1,1 @@
+const GOOGLE_MAPS_API_KEY = "AIzaSyAUiTJnq3Tme_Op3bVWyVyAf8VwANRC4QY";
